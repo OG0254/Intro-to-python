@@ -1,6 +1,6 @@
 # 🧮 Basic Calculator Program
 
-This is a simple Python program that acts as a basic calculator. It performs basic arithmetic operations — addition, subtraction, multiplication, and division — based on user input.
+This is a simple Python program that acts as a basic calculator. It performs basic arithmetic operations addition, subtraction, multiplication, and division based on user input.
 
 ---
 
